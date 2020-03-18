@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sehkar/Downloads/sikulixsetup-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sehkar/Downloads/sikulixapi-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sehkar/Downloads/sikulixlibswin-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sehkar/Downloads/javase-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sehkar/Downloads/core-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sehkar/Downloads/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sehkar/Downloads/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sehkar/Downloads/ashot-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sehkar/Downloads/commons-io-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
